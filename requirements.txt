@@ -2,3 +2,4 @@ streamlit
 opencv-python-headless
 numpy
 ultralytics
+libgl1-mesa-glx
